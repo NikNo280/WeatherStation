@@ -1,0 +1,13 @@
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.exe
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.deps.json
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.json
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.runtimeconfig.dev.json
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\bin\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csprojAssemblyReference.cache
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfoInputs.cache
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.AssemblyInfo.cs
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.csproj.CoreCompileInputs.cache
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.dll
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.pdb
+C:\Users\nikita\Documents\GitHub\WeatherStation\WeatherStation\WeatherStation\obj\Debug\netcoreapp3.1\WeatherStation.genruntimeconfig.cache
